@@ -1,0 +1,8 @@
+suite/test_calc.c:29:test_add:PASS
+suite/test_calc.c:30:test_is_equal:PASS
+suite/test_calc.c:31:test_power:PASS
+suite/test_calc.c:32:test_magnitude:PASS
+
+-----------------------
+4 Tests 0 Failures 0 Ignored 
+OK
