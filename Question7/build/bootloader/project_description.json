@@ -1,0 +1,18 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "C:/msys32/home/colli/esp/ESP8266_RTOS_SDK/components/bootloader/subproject",
+    "build_dir":          "C:/msys32/home/colli/esp/lab1_q7/build/bootloader",
+    "config_file":        "C:/msys32/home/colli/esp/lab1_q7/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v3.4-110-gd412ac60",
+    "phy_data_partition": "",
+    "monitor_baud" : "115200",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "C:/msys32/home/colli/esp/ESP8266_RTOS_SDK/components/esp8266/Kconfig;C:/msys32/home/colli/esp/ESP8266_RTOS_SDK/components/esp_common/Kconfig;C:/msys32/home/colli/esp/ESP8266_RTOS_SDK/components/log/Kconfig;C:/msys32/home/colli/esp/ESP8266_RTOS_SDK/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "C:/msys32/home/colli/esp/ESP8266_RTOS_SDK/components/bootloader/Kconfig.projbuild;C:/msys32/home/colli/esp/ESP8266_RTOS_SDK/components/esptool_py/Kconfig.projbuild;C:/msys32/home/colli/esp/ESP8266_RTOS_SDK/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "esp8266", "esp_common", "esptool_py", "log", "main", "partition_table", "spi_flash", "" ],
+    "build_component_paths" : [ "C:/msys32/home/colli/esp/ESP8266_RTOS_SDK/components/bootloader", "C:/msys32/home/colli/esp/ESP8266_RTOS_SDK/components/bootloader_support", "C:/msys32/home/colli/esp/ESP8266_RTOS_SDK/components/esp8266", "C:/msys32/home/colli/esp/ESP8266_RTOS_SDK/components/esp_common", "C:/msys32/home/colli/esp/ESP8266_RTOS_SDK/components/esptool_py", "C:/msys32/home/colli/esp/ESP8266_RTOS_SDK/components/log", "C:/msys32/home/colli/esp/ESP8266_RTOS_SDK/components/bootloader/subproject/main", "C:/msys32/home/colli/esp/ESP8266_RTOS_SDK/components/partition_table", "C:/msys32/home/colli/esp/ESP8266_RTOS_SDK/components/spi_flash", "" ]
+}
